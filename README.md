@@ -21,3 +21,4 @@ python3 main.py
 Configured Git, created atomic commits, pushed/pulled with GitHub remote, authored Markdown documentation.
 ## References
 [Pro Git Book](https://git-scm.com/book/en/v2) | [GitHub Skills](https://skills.github.com/) | [Markdown Guide](https://www.markdownguide.org/)
+Remote edit: This line was added on GitHub web for the pull demonstration.
