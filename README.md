@@ -14,7 +14,7 @@ cse103-lab-LAB3/ - README.md, CHANGELOG.md, main.py, .gitignore
 | Markdown docs | Completed |
 | API interaction | Completed |
 ## How to Run
-git clone https://github.com/<username>/cse103-lab-LAB3.git
+git clone https://github.com/ThodaLocal/cse103-lab-LAB3.git
 cd cse103-lab-LAB3
 python3 main.py
 ## Key Learning Outcomes
